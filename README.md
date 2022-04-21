@@ -19,4 +19,3 @@ The program is licensed under GPLv3
 * ICSharpCode, for AvalonEdit control (MIT license).
 * [Icons8](https://icons8.com), for free icons (CC BY-ND 3.0 license).
 * Microsoft for the .NET compiler platform (Apache License 2.0).
-* Cameron MacFarland and Simon Cropp, for Fody and Costura (MIT license) which enable this app to be distributed as an single executable file.

@@ -1,4 +1,6 @@
-# Dot Net Editor
+<h1 align=center>
+  .Net Editor
+</h1>
 
 [![Screenshot](https://preview.ibb.co/gOObAk/Dot_Net_Editor_2017_05_09_18_01_37.png)]
 

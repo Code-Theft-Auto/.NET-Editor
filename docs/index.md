@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+<h1 align=center>
+  .Net Editor
+</h1>
 
-You can use the [editor on GitHub](https://github.com/Code-Theft-Auto/.NET-Editor/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+[![Screenshot](https://preview.ibb.co/gOObAk/Dot_Net_Editor_2017_05_09_18_01_37.png)]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Dot Net Editor is an VB/C# text editor with the ability to run code and code snippets. It can run a complete code file, or a snippet containing only the inside of a class or the inside of `Main()`.
 
-### Markdown
+The program does not use an interactive console when Console.ReadLine is executed. Instead the text in “Input Data” is used as the input.
+The input is relayed into the Console output to simulate an interactive console.
+This can help users (likely students and educators) to verify the correctness of the program.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## License
 
-```markdown
-Syntax highlighted code block
+The program is licensed under GPLv3
 
-# Header 1
-## Header 2
-### Header 3
+## Credits
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Code-Theft-Auto/.NET-Editor/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* ICSharpCode, for AvalonEdit control (MIT license).
+* [Icons8](https://icons8.com), for free icons (CC BY-ND 3.0 license).
+* Microsoft for the .NET compiler platform (Apache License 2.0).
